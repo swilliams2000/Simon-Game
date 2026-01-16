@@ -2,7 +2,7 @@
 
 A simple Simon memory game built using **HTML, CSS, and JavaScript**.
 
-##Live Demo
+## Live Demo
 https://swilliams2000.github.io/Simon-Game/
 
 ## How It Works
